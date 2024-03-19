@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(31, 60, 61);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin: 0; 
+}
+
+.header {
+    display: flex;
+    justify-content: flex-start;
+    list-style: none;
+    padding: 20px;
+    background-color: darkslategray;
+    width: 100%; 
+    box-sizing: border-box; 
+}
+
+.header li {
+    text-align: center;
+    margin: 0;
+    margin-left: 14%;
+}
+
+.header li a {
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+}
+
+.header li a:hover{
+    background-color: rgb(31, 60, 61);
+    border-radius: 10px;
+    border: none;
+}
+
+.text-center {
+    text-align: center;
+}
