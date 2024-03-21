@@ -20,7 +20,8 @@ body {
 }
 
 .container {
-    width: 1200px;
+    margin-top: -2.5%;
+    width: 1000px;
     height: 600px;
     display: flex;
     align-items: center;

@@ -2,8 +2,8 @@ import {myFunction} from "./info.js"
 import {myImage} from "./img.js"
 
 const myObject = {
-    title : "This is sample text",
-    paragraph : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Commodi fugiat modi saepe autem culpa sed animi. Amet, corrupti, odio officia nulla omnis, facilis quasi vero repudiandae velit optio temporibus autem.",
+    title : "Three dogs",
+    paragraph : "This is a picture of 3 dogs out on a sunny day.",
     myImg : "OIP.jpg",
     buttonName : "Contact Us" 
 }
